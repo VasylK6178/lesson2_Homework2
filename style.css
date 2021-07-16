@@ -1,0 +1,16 @@
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.wrap {
+    margin: 0 20px;
+
+}
+
+.post-card {
+    width: 300px;
+
+}
